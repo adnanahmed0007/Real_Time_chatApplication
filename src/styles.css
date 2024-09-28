@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Links {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
